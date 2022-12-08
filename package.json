@@ -1,0 +1,26 @@
+{
+  "name": "quiz-master",
+  "version": "0.0.0",
+  "description": "Challenge yourself and your friends with this simple and intuitive quiz command-line game!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnavthorat78/Quiz-Master.git"
+  },
+  "author": "Arnav Thorat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnavthorat78/Quiz-Master/issues"
+  },
+  "homepage": "https://github.com/arnavthorat78/Quiz-Master#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^8.2.5",
+    "ora": "^5.4.1"
+  }
+}
