@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Challenge yourself and your friends with this simple and intuitive quiz command-line game!",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,10 +18,10 @@
   },
   "homepage": "https://github.com/arnavthorat78/Quiz-Master#readme",
   "dependencies": {
-    "chalk": "^4.1.2",
-    "chalk-animation": "^1.6.0",
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
     "gradient-string": "^2.0.2",
-    "inquirer": "^8.2.5",
-    "ora": "^5.4.1"
+    "inquirer": "^9.1.4",
+    "ora": "^6.1.2"
   }
 }
